@@ -1,0 +1,2 @@
+- Implemented a deep learning transformer model using multi-head self-attention, positional encoding, and feed-forward networks.
+- Trained the model on the Tiny Shakespeare dataset, featuring 40,000 lines from various plays, to fine-tune language processing capabilities.
